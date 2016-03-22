@@ -8,5 +8,4 @@ This repository contains a set of files to use [ROOT](http://root.cern.ch)books 
 
 [Enric Tejedor](https://github.com/etejedor), [Danilo Piparo](https://github.com/dpiparo) (2015-2016)
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/cernphsft/rootbinder)
-
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/artfisica/rootbinder)
